@@ -2,7 +2,11 @@ YAZ proxy - A Z39.50/SRU proxy.
 
 Introduction
 ------------
+<<<<<<< HEAD
 ahaahahha
+=======
+add something.
+>>>>>>> ea8e1bf41ff422e6a75b3fbdd1899bacd77cb29a
 
 YAZ proxy is a powerful general purpose Z39.50/SRU proxy.
 The proxy application and development library is covered by the
